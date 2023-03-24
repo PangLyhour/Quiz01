@@ -1,2 +1,1 @@
-# Quiz01
-java
+The site started with a landing page with 6 menus, if you do not have an account, you can select " Register " to register your account. If you already have an account.You can choose to login instead. In case of emergency, if you are worried about the security of your password, you can reset the password to get a new password. Start your typing test rather than watchingResults in the results list.
